@@ -1,18 +1,18 @@
 {
   "name": "ss82-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "tode393หวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"tode393หวย",
-"คาสิโนหวย 24",
-"lottovip ผิดกฎหมายไหม",
-"วิธีการเล่นหวยยี่กี",
-"lottovipios"
-],
+  "version": "0.2.0",
+  "description": "tode393หวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "tode393หวย",
+    "คาสิโนหวย 24",
+    "lottovip ผิดกฎหมายไหม",
+    "วิธีการเล่นหวยยี่กี",
+    "lottovipios"
+  ],
   "repository": "https://github.com/setteebet/ss82-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
